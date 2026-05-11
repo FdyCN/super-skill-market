@@ -50,6 +50,11 @@
 | `zhangxuefeng-skill` | 张雪峰认知框架——ROI教育视角、志愿填报、阶层流动现实主义 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) |
 | `nuwa-skill` | 女娲元技能——用6个并行研究 Agent + 40+一手资料为任意公众人物生成蒸馏 skill | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) |
 
+### 创意 & 艺术
+| Skill | 简介 | 仓库 |
+|-------|------|------|
+| `Chinese-WebNovel-Skill` | 中文网文编写的 skill | [Tomsawyerhu/Chinese-WebNovel-Skill](https://github.com/Tomsawyerhu/Chinese-WebNovel-Skill.git) |
+
 ---
 
 ## 脑洞大开
